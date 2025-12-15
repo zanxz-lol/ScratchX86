@@ -1,6 +1,6 @@
 # The ScratchX86 Project
 ## What is ScratchX86?
-ScratchX86 is an ambitious project to bring modern x86 emulation to Scratch. It has been in the works for 2 long years and has been getting better with each month!
+ScratchX86 (formerly known as Scratch386) is an ambitious project to bring modern x86 emulation to Scratch. It has been in the works for 2 long years and has been getting better with each month!
 ## What can ScratchX86 do as of right now?
 As of right now, ScratchX86 can load a 256KiB SeaBIOS ROM and execute it but with a few problems. It has support for a little over 70 instructions and is pretty speedy.
 ## What's so special about ScratchX86?
